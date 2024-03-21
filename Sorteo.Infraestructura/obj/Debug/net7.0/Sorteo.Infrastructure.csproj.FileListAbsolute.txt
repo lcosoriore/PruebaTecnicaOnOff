@@ -1,0 +1,17 @@
+C:\Users\luisa\Documents\GitHub\PRUEBATECNICAONOFF\Sorteo.Infraestructura\bin\Debug\net7.0\Sorteo.Infrastructure.deps.json
+C:\Users\luisa\Documents\GitHub\PRUEBATECNICAONOFF\Sorteo.Infraestructura\bin\Debug\net7.0\Sorteo.Infrastructure.runtimeconfig.json
+C:\Users\luisa\Documents\GitHub\PRUEBATECNICAONOFF\Sorteo.Infraestructura\bin\Debug\net7.0\Sorteo.Infrastructure.dll
+C:\Users\luisa\Documents\GitHub\PRUEBATECNICAONOFF\Sorteo.Infraestructura\bin\Debug\net7.0\Sorteo.Infrastructure.pdb
+C:\Users\luisa\Documents\GitHub\PRUEBATECNICAONOFF\Sorteo.Infraestructura\bin\Debug\net7.0\Sorteo.Domain.dll
+C:\Users\luisa\Documents\GitHub\PRUEBATECNICAONOFF\Sorteo.Infraestructura\bin\Debug\net7.0\Sorteo.Domain.pdb
+C:\Users\luisa\Documents\GitHub\PRUEBATECNICAONOFF\Sorteo.Infraestructura\obj\Debug\net7.0\Sorteo.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\luisa\Documents\GitHub\PRUEBATECNICAONOFF\Sorteo.Infraestructura\obj\Debug\net7.0\Sorteo.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisa\Documents\GitHub\PRUEBATECNICAONOFF\Sorteo.Infraestructura\obj\Debug\net7.0\Sorteo.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\luisa\Documents\GitHub\PRUEBATECNICAONOFF\Sorteo.Infraestructura\obj\Debug\net7.0\Sorteo.Infrastructure.AssemblyInfo.cs
+C:\Users\luisa\Documents\GitHub\PRUEBATECNICAONOFF\Sorteo.Infraestructura\obj\Debug\net7.0\Sorteo.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\luisa\Documents\GitHub\PRUEBATECNICAONOFF\Sorteo.Infraestructura\obj\Debug\net7.0\Sorteo.Infrastructure.csproj.CopyComplete
+C:\Users\luisa\Documents\GitHub\PRUEBATECNICAONOFF\Sorteo.Infraestructura\obj\Debug\net7.0\Sorteo.Infrastructure.dll
+C:\Users\luisa\Documents\GitHub\PRUEBATECNICAONOFF\Sorteo.Infraestructura\obj\Debug\net7.0\refint\Sorteo.Infrastructure.dll
+C:\Users\luisa\Documents\GitHub\PRUEBATECNICAONOFF\Sorteo.Infraestructura\obj\Debug\net7.0\Sorteo.Infrastructure.pdb
+C:\Users\luisa\Documents\GitHub\PRUEBATECNICAONOFF\Sorteo.Infraestructura\obj\Debug\net7.0\Sorteo.Infrastructure.genruntimeconfig.cache
+C:\Users\luisa\Documents\GitHub\PRUEBATECNICAONOFF\Sorteo.Infraestructura\obj\Debug\net7.0\ref\Sorteo.Infrastructure.dll

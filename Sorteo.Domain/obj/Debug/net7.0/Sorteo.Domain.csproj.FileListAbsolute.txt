@@ -1,0 +1,12 @@
+C:\Users\luisa\Documents\GitHub\PRUEBATECNICAONOFF\Sorteo.Domain\bin\Debug\net7.0\Sorteo.Domain.deps.json
+C:\Users\luisa\Documents\GitHub\PRUEBATECNICAONOFF\Sorteo.Domain\bin\Debug\net7.0\Sorteo.Domain.dll
+C:\Users\luisa\Documents\GitHub\PRUEBATECNICAONOFF\Sorteo.Domain\bin\Debug\net7.0\Sorteo.Domain.pdb
+C:\Users\luisa\Documents\GitHub\PRUEBATECNICAONOFF\Sorteo.Domain\obj\Debug\net7.0\Sorteo.Domain.csproj.AssemblyReference.cache
+C:\Users\luisa\Documents\GitHub\PRUEBATECNICAONOFF\Sorteo.Domain\obj\Debug\net7.0\Sorteo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisa\Documents\GitHub\PRUEBATECNICAONOFF\Sorteo.Domain\obj\Debug\net7.0\Sorteo.Domain.AssemblyInfoInputs.cache
+C:\Users\luisa\Documents\GitHub\PRUEBATECNICAONOFF\Sorteo.Domain\obj\Debug\net7.0\Sorteo.Domain.AssemblyInfo.cs
+C:\Users\luisa\Documents\GitHub\PRUEBATECNICAONOFF\Sorteo.Domain\obj\Debug\net7.0\Sorteo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\luisa\Documents\GitHub\PRUEBATECNICAONOFF\Sorteo.Domain\obj\Debug\net7.0\Sorteo.Domain.dll
+C:\Users\luisa\Documents\GitHub\PRUEBATECNICAONOFF\Sorteo.Domain\obj\Debug\net7.0\refint\Sorteo.Domain.dll
+C:\Users\luisa\Documents\GitHub\PRUEBATECNICAONOFF\Sorteo.Domain\obj\Debug\net7.0\Sorteo.Domain.pdb
+C:\Users\luisa\Documents\GitHub\PRUEBATECNICAONOFF\Sorteo.Domain\obj\Debug\net7.0\ref\Sorteo.Domain.dll
